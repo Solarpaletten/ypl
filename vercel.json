@@ -7,7 +7,6 @@
   "outputDirectory": ".next",
   "installCommand": "npm install",
   "devCommand": "npm run dev",
-  "rootDirectory": "frontend",
   "regions": ["iad1"],
   "git": {
     "deploymentEnabled": {
